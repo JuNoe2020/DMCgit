@@ -1,1 +1,1 @@
-# DMCgit
+# DMC class
